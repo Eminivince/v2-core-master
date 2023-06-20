@@ -1,0 +1,68 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "sender",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount0",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bytes",
+						"name": "data",
+						"type": "bytes"
+					}
+				],
+				"name": "xeleronCall",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-core-master/contracts/interfaces/IXeleronCallee.sol": "IXeleronCallee"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-core-master/contracts/interfaces/IXeleronCallee.sol": {
+			"keccak256": "0xfb68b24d415346ea7d42441198705c80bc28745b8d0ebb3ae17f953a1ebfccfb",
+			"urls": [
+				"bzz-raw://5b59d93126b2a8b20d2f5df4244f95a6718c823306eff175d6eba0027aa67f53",
+				"dweb:/ipfs/QmQoKU9iMWSe8BCjZnHSiVWvB6CKjEPsRFNerQSHMrP3GL"
+			]
+		}
+	},
+	"version": 1
+}

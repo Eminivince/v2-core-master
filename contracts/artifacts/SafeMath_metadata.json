@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-core-master/contracts/XeleronPair_flattened.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 999997
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-core-master/contracts/XeleronPair_flattened.sol": {
+			"keccak256": "0x7fbcf9e09dbe18c3253c842869801ca6c3b534efde34a87636c76b8fd390d60b",
+			"urls": [
+				"bzz-raw://7dee26a607d5df41920a560e5eefaa85a0f1435ad75511c027f76f227862f33d",
+				"dweb:/ipfs/QmUtma8RB3gQ7G5icSESmmpGTyk2JnbPA1p2NaCAVKZJag"
+			]
+		}
+	},
+	"version": 1
+}
